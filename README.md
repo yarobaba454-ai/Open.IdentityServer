@@ -59,3 +59,4 @@ Open.IdentityServer is built using the following great open source projects and 
 * [GitReleaseManager](https://github.com/GitTools/GitReleaseManager)
 
 ..and last but not least a big thanks to all our [contributors](https://github.com/RockSolidKnowledge/Open.IdentityServer/graphs/contributors)!
+https://www.google.com/search?q=IDP-Initiated+SAML+SSO.+2&client=ms-android-xiaomi-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8
